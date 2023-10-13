@@ -1,0 +1,10 @@
+package com.example.demo.bean;
+
+public class Libro {
+	private int id;
+	private String autor;
+	private String editorial;
+	private String fecha;
+	private String tematica;
+
+}
